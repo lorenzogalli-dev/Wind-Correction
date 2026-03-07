@@ -4,6 +4,10 @@ Wind Correction is an athletics-focused application that estimates how a perform
 
 In track and field, wind has a significant impact on sprint and jump events, making it difficult to compare results obtained under different conditions. This app allows athletes, coaches, and analysts to normalize performances or explore hypothetical wind scenarios in a simple and reliable way.
 
+## Download
+
+https://apps.apple.com/it/app/wind-correction/id6738150976
+
 ## Features
 
 - Select an athletics event (sprints or jumps)
